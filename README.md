@@ -12,7 +12,9 @@ The project aims to analyze the streaming services such as Netflix, Hulu, Prime 
 ## 🛠 Skills 
 
 1. Python Programming
-2. Python libraries: Numpy, Pandas, Matplotlib and Seaborn
+2. Pandas: Data manipulation and analysis.
+3. NumPy: Numerical computations and array operations.
+4. Matplotlib and Seaborn: Data visualization.
 
 
 
